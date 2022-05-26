@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.9" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.JCheckBoxMenuItem" name="jCheckBoxMenuItem1">
+      <Properties>
+        <Property name="selected" type="boolean" value="true"/>
+        <Property name="text" type="java.lang.String" value="jCheckBoxMenuItem1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBoxMenuItem" name="jCheckBoxMenuItem2">
+      <Properties>
+        <Property name="selected" type="boolean" value="true"/>
+        <Property name="text" type="java.lang.String" value="jCheckBoxMenuItem2"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JMenuItem" name="jMenuItem1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jMenuItem1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="nBlackCoffee2">
+    </Component>
+    <Component class="javax.swing.JTextField" name="nBlackCoffee5">
+    </Component>
+    <Component class="javax.swing.JTextField" name="nBlackCoffee13">
+    </Component>
+    <Component class="javax.swing.JTextField" name="nBlackCoffee14">
+    </Component>
+    <Component class="javax.swing.JTextField" name="nBlackCoffee16">
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+      <Color blue="99" green="99" red="ff" type="rgb"/>
+    </Property>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace min="-2" pref="65" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="nExpresso" min="-2" pref="70" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="138" max="-2" attributes="0"/>
+                              <Component id="jLabel4" min="-2" pref="70" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="12" pref="12" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="103" alignment="0" groupAlignment="1" attributes="0">
+                                      <Component id="nThaiteaGreenTea" alignment="0" min="-2" pref="130" max="-2" attributes="0"/>
+                                      <Component id="nThaiOvaltine" min="-2" pref="150" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Component id="nOriginThaitea" alignment="0" min="-2" pref="130" max="-2" attributes="0"/>
+                                  <Component id="jLabel3" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                                  <Component id="nThaiTaro" alignment="0" min="-2" pref="133" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                      <Component id="nDoppio" alignment="0" max="32767" attributes="0"/>
+                                      <Component id="nBlackCoffee" alignment="0" max="32767" attributes="0"/>
+                                      <Component id="nAmericano1" alignment="0" pref="21" max="32767" attributes="0"/>
+                                      <Component id="nGreentea" alignment="0" max="32767" attributes="0"/>
+                                      <Component id="nOrigin" alignment="0" max="32767" attributes="0"/>
+                                      <Component id="nMachiato" alignment="0" max="32767" attributes="0"/>
+                                      <Component id="nOvaltine" alignment="0" max="32767" attributes="0"/>
+                                  </Group>
+                                  <Component id="nIceTaro" alignment="0" min="-2" pref="22" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="13" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Component id="nAmeric" pref="99" max="32767" attributes="0"/>
+                                  <Component id="nMachiaato" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="nDoppioo" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="nBlackC" alignment="0" pref="99" max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                              <Component id="jLabel6" alignment="0" min="-2" pref="34" max="-2" attributes="0"/>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                      <Component id="nCooekiesCream" alignment="0" pref="127" max="32767" attributes="0"/>
+                                      <Component id="nStrawberryshake" alignment="0" max="32767" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace max="32767" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="nStrawberry" alignment="1" min="-2" pref="18" max="-2" attributes="0"/>
+                                      <Component id="nCookies" alignment="1" min="-2" pref="18" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="nChocolateshake" alignment="0" min="-2" pref="136" max="-2" attributes="0"/>
+                                      <Component id="nVanillashake" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                      <Component id="nVanilla" pref="18" max="32767" attributes="0"/>
+                                      <Component id="nChocolate" pref="18" max="32767" attributes="0"/>
+                                      <Component id="nMatcha" alignment="0" pref="18" max="32767" attributes="0"/>
+                                      <Component id="nCaramel" alignment="0" pref="18" max="32767" attributes="0"/>
+                                      <Component id="nAvocad" alignment="0" pref="18" max="32767" attributes="0"/>
+                                      <Component id="nCofeeLatte" alignment="0" max="32767" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                          <Component id="jLabel5" min="-2" pref="50" max="-2" attributes="0"/>
+                          <Component id="nCoffeeLattee" min="-2" pref="101" max="-2" attributes="0"/>
+                          <Component id="nAvocadLatte" alignment="0" min="-2" pref="101" max="-2" attributes="0"/>
+                          <Component id="nCaramelLatte" min="-2" pref="101" max="-2" attributes="0"/>
+                          <Component id="nMatchaLatte" min="-2" pref="101" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="jLabel1" min="-2" pref="348" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="36" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace pref="86" max="32767" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+              <Component id="pemesanan" min="-2" pref="73" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="70" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jLabel1" min="-2" pref="48" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="nExpresso" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel4" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel5" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="5" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="nBlackCoffee" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="nCoffeeLattee" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="nCofeeLatte" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="nBlackC" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="nAvocad" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="nAmeric" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="nAvocadLatte" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="nAmericano1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="nDoppioo" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="nDoppio" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="nCaramelLatte" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="nCaramel" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="nMachiaato" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="nMachiato" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="nMatchaLatte" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="nMatcha" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                      <Component id="jLabel6" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="nThaiteaGreenTea" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="nGreentea" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="nOriginThaitea" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="nOrigin" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="nThaiOvaltine" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="nOvaltine" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="nThaiTaro" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="nIceTaro" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="nVanillashake" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="nVanilla" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="nChocolate" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="nChocolateshake" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="nStrawberryshake" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="nStrawberry" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="nCooekiesCream" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="nCookies" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace pref="6" max="32767" attributes="0"/>
+              <Component id="pemesanan" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Monospaced" size="18" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="text" type="java.lang.String" value="SELAMAT DATANG DI KALA SENJA"/>
+        <Property name="horizontalTextPosition" type="int" value="0"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="nAmeric">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Americano"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="nDoppioo">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Doppio"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="nMachiaato">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Macchiato"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="nExpresso">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Expresso"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="nBlackCoffee">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="cc" red="ff" type="rgb"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="nDoppio">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="cc" red="ff" type="rgb"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Thai Tea"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="nOriginThaitea">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Original Thai Tea"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="nThaiteaGreenTea">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Thai Ice Green Tea"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="nThaiOvaltine">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Thai Ice Ovaltine"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="nThaiTaro">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Thai Ice Taro"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="nGreentea">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="cc" red="ff" type="rgb"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="nOrigin">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="cc" red="ff" type="rgb"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="nOvaltine">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="cc" red="ff" type="rgb"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="nMachiato">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="cc" red="ff" type="rgb"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="nIceTaro">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="cc" red="ff" type="rgb"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel4">
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Latte"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="nCoffeeLattee">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Coffee Latte"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="nAvocadLatte">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Avocado Latte"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="nAmericano1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="cc" red="ff" type="rgb"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel6">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Shake"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="nVanillashake">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Vanilla Shake"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="nChocolateshake">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Chocolate Shake"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="nStrawberryshake">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Strawberry shake"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="nCaramelLatte">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Caramel Latte"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="nMatchaLatte">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Matcha Latte"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="nVanilla">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="cc" red="ff" type="rgb"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="nVanillaActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="nChocolate">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="cc" red="ff" type="rgb"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="nMatcha">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="cc" red="ff" type="rgb"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="nCofeeLatte">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="cc" red="ff" type="rgb"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="nAvocad">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="cc" red="ff" type="rgb"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="nCaramel">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="cc" red="ff" type="rgb"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="nStrawberry">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="cc" red="ff" type="rgb"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="nCooekiesCream">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Cookies and Cream"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="nCookies">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="cc" red="ff" type="rgb"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="pemesanan">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="order"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="pemesananActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="nBlackC">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Black Coffee"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
